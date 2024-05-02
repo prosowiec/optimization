@@ -41,8 +41,8 @@ optMatrix = np.array([
 The output provides the optimal allocation of items into buckets:
 
 ```
-Bucket 1: [80, 108, 10, 111, 2480]
-Bucket 2: [1780, 980]
-Bucket 3: [1701, 30, 500, 500, 20]
-Bucket 4: [180, 109, 178, 10, 18, 480, 50, 1780]
+Bucket Cost - [  10  178 2480  109] Elements - ['d' 's' 'l' 'g']
+Bucket Cost - [  30 1701   20   10  980] Elements - ['x' 'u' 'e' 'a' 'j']
+Bucket Cost - [ 500  480 1780] Elements - ['z' 'k' 'o']
+Bucket Cost - [  18  108   80   50  111  180 1780  500] Elements - ['p' 'i' 'r' 't' 'q' 'y' 'h' 'w']
 ```
