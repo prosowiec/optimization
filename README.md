@@ -33,6 +33,7 @@ optMatrix = np.array([
     ['z', 500],
     ['x', 30]
 ])
+```
 
 
 ## Output
